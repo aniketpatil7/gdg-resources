@@ -1,0 +1,7 @@
+mkdocs
+pymdown-extensions
+cairosvg
+pillow
+mkdocs-material
+mkdocs-material[imaging]
+mkdocs-panzoom-plugin
