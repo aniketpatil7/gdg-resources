@@ -1,4 +1,3 @@
 ## GDG Resources
 
-some something
-kjvcbjcxbzvbjhcsbvjkh
+Hello this is team gdg
