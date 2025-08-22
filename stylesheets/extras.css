@@ -1,0 +1,20 @@
+/* Make Mermaid SVGs full-width and scalable */
+.mermaid svg {
+  width: 100% !important;
+  height: auto !important;
+}
+
+/* Add scale-on-hover utility classes */
+.scale-small .mermaid svg { max-width: 500px; }
+.scale-medium .mermaid svg { max-width: 800px; }
+.scale-large  .mermaid svg { max-width: 1200px; }
+
+/* Increase diagram font size */
+:root {
+  --mermaid-font-size: 1rem;
+}
+
+/* Ensure proper CSS variable usage */
+.mermaid {
+  font-size: var(--mermaid-font-size);
+}
