@@ -1,6 +1,6 @@
 # VibeGuide AI Documentation
 
-Your AI-Powered Cultural Compass for Confident Global Travel
+GDG
 
 ## About
 
